@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Infinite Monkey Theorem
+title: 文章
 subtitle: as crazy as it sounds...
 tags: [math, tech]
 ---
 
-<img style="float: right" src="../assets/monkey-typewriter.jpg">
+
 
 The infinite monkey theorem states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, such as the complete works of William Shakespeare.
 
@@ -15,4 +15,3 @@ In this context, "almost surely" is a mathematical term with a precise meaning, 
 
 In 2003, lecturers and students from the University of Plymouth MediaLab Arts course used a £2,000 grant from the Arts Council to study the literary output of real monkeys. They left a computer keyboard in the enclosure of six Celebes crested macaques in Paignton Zoo in Devon in England for a month, with a radio link to broadcast the results on a website. Not only did the monkeys produce nothing but five total pages largely consisting of the letter S, the lead male began bashing the keyboard with a stone, and the monkeys followed by soiling it.
 
-Reference: [Wikipedia](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
